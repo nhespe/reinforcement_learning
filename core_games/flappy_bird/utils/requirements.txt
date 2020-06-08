@@ -1,0 +1,7 @@
+importlib
+neat-python
+pygame
+numpy
+pytest
+pandas
+pyzmq==19.0.1
